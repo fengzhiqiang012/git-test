@@ -1,3 +1,4 @@
 export default{
-    "fuck":"cao"
+    "fuck":"cao",
+    "aa":""
 }
